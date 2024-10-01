@@ -4,6 +4,7 @@ title: about
 permalink: /
 subtitle: ECE Senior Undergrad at <a href='https://www.rochester.edu/'>UR</a>
 
+
 profile:
   align: right
   image: portrait.jpg
